@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--    <corners-->
+    <!--        android:topLeftRadius="15dp"-->
+    <!--        android:topRightRadius="15dp"-->
+    <!--        android:bottomRightRadius="15dp"-->
+    <!--        android:bottomLeftRadius="15dp" />-->
+
+    <!--    <stroke-->
+    <!--        android:width="2dp"-->
+    <!--        android:color="#@color/hpk_border" />-->
+    <!--    <solid android:color="#@color/hpk_border"/>-->
+
+    <corners
+        android:bottomLeftRadius="10dp"
+        android:bottomRightRadius="10dp"
+        android:topLeftRadius="10dp"
+        android:topRightRadius="10dp" />
+
+    <!--    <gradient-->
+    <!--        android:centerColor="#E6ECEF"-->
+    <!--        android:endColor="#BEC8CC"-->
+    <!--        android:startColor="#BEC8CC" />-->
+
+    <solid android:color="@color/hpk_border"/>
+
+
+</shape>

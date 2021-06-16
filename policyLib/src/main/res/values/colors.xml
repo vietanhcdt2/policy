@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="hpk_black_text">#FF000000</color>
+    <color name="hpk_black_small_text">#FF4C4C4C</color>
+    <color name="hpk_border_button">#FF38BFF6</color>
+    <color name="hpk_border">#FF008080</color>
+</resources>

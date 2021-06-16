@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.gameloft.android.hpk.china.policy">
+
+    <application>
+        <activity
+            android:name="com.gameloft.android.hpk.china.policy.PrivacyActivity"
+            android:configChanges="smallestScreenSize|density|mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation
+            |orientation|screenLayout|fontScale|uiMode|screenSize|layoutDirection"
+            android:screenOrientation="landscape"
+            android:theme="@style/PrivacyThemeBase"></activity>
+    </application>
+
+
+</manifest>
